@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # XeWe LED - Desk — ESP8266 desk and ceiling lights for HomeKit and Alexa
 
 Personal project · 2022-10 → 2024-07 · Solo: Max Dokukin · Status: Completed (Release V1.0 2023-11-12, last change 2024-07-01)
